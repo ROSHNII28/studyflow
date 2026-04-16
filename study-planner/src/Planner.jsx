@@ -30,7 +30,7 @@ export default function Planner() {
     title: "",
     subject: "",
     time: "",
-    duration: "60",
+    duration: "",
     priority: "Medium",
     notes: "",
     goalId: "",

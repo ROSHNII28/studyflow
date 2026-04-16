@@ -58,7 +58,7 @@ export default function Dashboard({ onNav }) {
       <div className="grid-4" style={{ marginBottom: 24 }}>
         <div className="stat-card">
           <div className="stat-icon" style={{ background: '#d4edda' }}>📚</div>
-          <div className="stat-value">{hoursToday}h</div>
+          <div className="stat-value">{1}Hr</div>
           <div className="stat-label">Studied Today</div>
         </div>
 
